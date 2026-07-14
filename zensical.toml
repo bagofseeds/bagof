@@ -1,15 +1,18 @@
 [project]
 
 nav = [
-  {"Home" = "index.md"},
+  {"Bag of" = [
+    "index.md",
+    {"Hints" = "https://bagofseeds.github.io/bagof-hints/"},
+  ]},
 ]
 
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "bagof-things"
+site_name = "bagof"
 
-site_description = "A template repository for useful things in a bag."
+site_description = "A namespace package for useful things in a bag."
 
 # The site_author attribute. This is used in the HTML head element.
 #
@@ -30,6 +33,7 @@ features = [
   "content.code.copy",
   "content.code.select",
   "navigation.indexes",
+  "navigation.expand"
 ]
 
 [[project.theme.palette]]
