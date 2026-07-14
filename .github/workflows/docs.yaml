@@ -70,7 +70,7 @@ jobs:
   deploy:
     uses: bagofseeds/actions/.github/workflows/docs.yaml@main
     with:
-      tag: ${{ inputs.ref }}
+      tag: ${{ inputs.tag }}
       python-version: ${{ inputs.python-version }}
       requirements-file: ${{ inputs.requirements-file }}
       pip-install: ${{ inputs.pip-install }}
