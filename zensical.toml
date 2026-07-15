@@ -1,5 +1,7 @@
 [project]
 
+extra_css = ["stylesheets/extra.css"]
+
 nav = [
   {"Bag of" = [
     "index.md",
