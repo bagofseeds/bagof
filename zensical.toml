@@ -4,6 +4,7 @@ nav = [
   {"Bag of" = [
     "index.md",
     {"Hints" = "https://bagofseeds.github.io/bagof-hints/"},
+    {"Validators" = "https://bagofseeds.github.io/bagof-validators/"},
   ]},
 ]
 
