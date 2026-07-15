@@ -24,3 +24,4 @@ only ones (when required).
 | Module  | Description |
 | ------- | ----------- |
 | [`hints`](https://bagofseeds.github.io/bagof-hints/) | Reusable typing hints |
+| [`validators`](https://bagofseeds.github.io/bagof-validators/) | Hint-based runtime validators |
