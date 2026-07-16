@@ -7,6 +7,7 @@ nav = [
     "index.md",
     {"Hints" = "https://bagofseeds.github.io/bagof-hints/"},
     {"Validators" = "https://bagofseeds.github.io/bagof-validators/"},
+    {"Converters" = "https://bagofseeds.github.io/bagof-converters/"},
   ]},
 ]
 
@@ -22,7 +23,9 @@ site_description = "A namespace package for useful things in a bag."
 # Read more: https://zensical.org/docs/setup/basics/#site_author
 site_author = "Yael Balbastre"
 
-site_url = "https://bagofseeds.github.io/bagof-repo-template/"
+site_url = "https://bagofseeds.github.io/bagof/"
+repo_url = "https://github.com/bagofseeds/bagof"
+repo_name = "bagofseeds/bagof"
 
 copyright = """
 Copyright &copy; 2026 The authors
