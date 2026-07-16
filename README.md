@@ -25,3 +25,4 @@ only ones (when required).
 | ------- | ----------- |
 | [`hints`](https://bagofseeds.github.io/bagof-hints/) | Reusable typing hints |
 | [`validators`](https://bagofseeds.github.io/bagof-validators/) | Hint-based runtime validators |
+| [`converters`](https://bagofseeds.github.io/bagof-converters/) | Hint-based runtime converters |
