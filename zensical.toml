@@ -8,6 +8,7 @@ nav = [
     {"Hints" = "https://bagofseeds.github.io/bagof-hints/"},
     {"Validators" = "https://bagofseeds.github.io/bagof-validators/"},
     {"Converters" = "https://bagofseeds.github.io/bagof-converters/"},
+    {"Factories" = "https://bagofseeds.github.io/bagof-factories/"},
   ]},
 ]
 
