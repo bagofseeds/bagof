@@ -1,6 +1,6 @@
 # bagof
 
-`bagof` is a namespace package that houses miscelaneous tools
+`bagof` is a namespace package that houses miscellaneous tools
 that I found useful when implementing python packages.
 
 The core idea behind this project is that each "bag" can be installed on
@@ -16,8 +16,8 @@ sometimes not possible, and I would like these users to benefit from
 up-to-date versions of my tools nonetheless. Most bags will support the
 same range of python versions as the most recent version of
 [`typing_extensions`](https://typing-extensions.readthedocs.io/),
-although some will support older versions (when possible) and some newer
-only ones (when required).
+although some will support older versions (when possible) and others only
+newer ones (when required).
 
 ## List of bags
 
@@ -27,3 +27,5 @@ only ones (when required).
 | [`validators`](https://bagofseeds.github.io/bagof-validators/) | Hint-based runtime validators |
 | [`converters`](https://bagofseeds.github.io/bagof-converters/) | Hint-based runtime converters |
 | [`factories`](https://bagofseeds.github.io/bagof-factories/) | Hint-based runtime factories |
+| [`core-magic`](https://bagofseeds.github.io/bagof-core-magic/) | Core tools used by the magic converters, validators, factories, etc |
+| [`magic`](https://bagofseeds.github.io/bagof-magic/) | Dataclass-like structures built on hint-based magic |
