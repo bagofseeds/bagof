@@ -19,7 +19,7 @@ same range of python versions as the most recent version of
 although some will support older versions (when possible) and others only
 newer ones (when required).
 
-## List of bags
+## List of public bags
 
 | Module  | Description |
 | ------- | ----------- |
@@ -27,5 +27,12 @@ newer ones (when required).
 | [`validators`](https://bagofseeds.github.io/bagof-validators/) | Hint-based runtime validators |
 | [`converters`](https://bagofseeds.github.io/bagof-converters/) | Hint-based runtime converters |
 | [`factories`](https://bagofseeds.github.io/bagof-factories/) | Hint-based runtime factories |
-| [`core-magic`](https://bagofseeds.github.io/bagof-core-magic/) | Core tools used by the magic converters, validators, factories, etc |
 | [`magic`](https://bagofseeds.github.io/bagof-magic/) | Dataclass-like structures built on hint-based magic |
+
+## List of private bags
+
+These packages contain internal utilities and should not be relied upon by most users.
+
+| Module  | Description |
+| ------- | ----------- |
+| [`core-magic`](https://bagofseeds.github.io/bagof-core-magic/) | Core tools used by the magic converters, validators, factories, etc |
