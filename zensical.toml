@@ -10,6 +10,7 @@ nav = [
     {"Converters" = "https://bagofseeds.github.io/bagof-converters/"},
     {"Factories" = "https://bagofseeds.github.io/bagof-factories/"},
     {"Magic" = "https://bagofseeds.github.io/bagof-magic/"},
+    {"Paths" = "https://bagofseeds.github.io/bagof-paths/"},
   ]},
 ]
 

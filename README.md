@@ -28,6 +28,7 @@ newer ones (when required).
 | [`converters`](https://bagofseeds.github.io/bagof-converters/) | Hint-based runtime converters |
 | [`factories`](https://bagofseeds.github.io/bagof-factories/) | Hint-based runtime factories |
 | [`magic`](https://bagofseeds.github.io/bagof-magic/) | Dataclass-like structures built on hint-based magic |
+| [`paths`](https://bagofseeds.github.io/bagof-paths/) | One pathlib-style API for local and cloud paths |
 
 ## List of private bags
 
