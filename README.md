@@ -29,6 +29,7 @@ newer ones (when required).
 | [`factories`](https://bagofseeds.github.io/bagof-factories/) | Hint-based runtime factories |
 | [`magic`](https://bagofseeds.github.io/bagof-magic/) | Dataclass-like structures built on hint-based magic |
 | [`paths`](https://bagofseeds.github.io/bagof-paths/) | One pathlib-style API for local and cloud paths |
+| [`dispatchers`](https://bagofseeds.github.io/bagof-dispatchers/) | Multiple dispatch driven by type hints |
 
 ## List of private bags
 
